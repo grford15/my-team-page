@@ -1,0 +1,12 @@
+:root {
+	--main-font: "Poppins", sans-serif;
+	--secondary-font: "PT Serif", serif;
+	--main-black: #1c1c1c;
+	--main-white: #ebebeb;
+}
+
+body {
+	box-sizing: border-box;
+	background-color: var(--main-white);
+	font-family: var(--main-font);
+}
