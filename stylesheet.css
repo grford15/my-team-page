@@ -19,3 +19,18 @@ body {
 	text-transform: uppercase;
 	margin: 1rem 0;
 }
+
+.workers-container {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 1em;
+}
+
+.worker-card img {
+	width: 90%;
+	height: 80%;
+}
+
+.worker-card p {
+	margin: 0.1em;
+}
