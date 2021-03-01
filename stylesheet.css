@@ -17,4 +17,5 @@ body {
 
 .description h2 {
 	text-transform: uppercase;
+	margin: 1rem 0;
 }
